@@ -46,7 +46,7 @@ git init
 git add .
 git commit -m "Initial commit - Virtual Lab Assistant app"
 git branch -M main
-git remote add origin <your-github-repo-url>
+git remote add origin <https://github.com/maryamhamda2002-wq/Virtual-lab-assistant>
 git push -u origin main
 
 
